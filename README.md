@@ -1,2 +1,2 @@
 # flexbox-wireframe-practice
-Project practicing building CSS wireframe with flexbox.
+Project practicing building responsive CSS wireframe with flexbox.
